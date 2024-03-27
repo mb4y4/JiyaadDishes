@@ -13,27 +13,30 @@ This is a simple restaurant billing system created for practice purposes. It all
 
 1. Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/mb4y4/JiyaadDishes.git
-Navigate to the project directory:
 
-bash
-Copy code
+2. Navigate to the project directory:
+
 cd JiyaadDishes
-Run the application:
 
-bash
-Copy code
+3. Run the application:
+
 python Methods.py
-Usage
-Start the application by running Methods.py.
-Follow the on-screen instructions to manage the menu, process orders, and generate bills.
-At the end of each transaction, a bill will be displayed or printed for the customer.
-Technologies Used
-Python: The backend logic of the system is implemented in Python.
-CLI (Command Line Interface): The system is operated through a command-line interface.
-No Database: This system does not utilize a database for simplicity purposes.
-Contributing
+
+
+## Usage
+
+1. Start the application by running `main.py`.
+2. Follow the on-screen instructions to manage the menu, process orders, and generate bills.
+3. At the end of each transaction, a bill will be displayed or printed for the customer.
+
+## Technologies Used
+
+- **Python**: The backend logic of the system is implemented in Python.
+- **CLI (Command Line Interface)**: The system is operated through a command-line interface.
+- **No Database**: This system does not utilize a database for simplicity purposes.
+
+## Contributing
+
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
