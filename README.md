@@ -21,7 +21,7 @@ cd JiyaadDishes
 
 3. Run the application:
 
-python Methods.py
+py Methods.py
 
 
 ## Usage
