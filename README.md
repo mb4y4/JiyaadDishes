@@ -13,15 +13,21 @@ This is a simple restaurant billing system created for practice purposes. It all
 
 1. Clone the repository:
 
+```bash
 git clone https://github.com/mb4y4/JiyaadDishes.git
+```
 
 2. Navigate to the project directory:
 
+```bash
 cd JiyaadDishes
+```
 
 3. Run the application:
 
+```bash
 py Methods.py
+```
 
 
 ## Usage
