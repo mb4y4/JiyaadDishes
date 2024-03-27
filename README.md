@@ -13,10 +13,19 @@ This is a simple restaurant billing system created for practice purposes. It all
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/restaurant-billing-system.git
+bash
+Copy code
+git clone https://github.com/mb4y4/JiyaadDishes.git
+Navigate to the project directory:
 
+bash
+Copy code
+cd JiyaadDishes
+Run the application:
 
+bash
+Copy code
+python Methods.py
 Usage
 Start the application by running Methods.py.
 Follow the on-screen instructions to manage the menu, process orders, and generate bills.
@@ -28,5 +37,3 @@ No Database: This system does not utilize a database for simplicity purposes.
 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
